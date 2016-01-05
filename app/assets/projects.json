@@ -1,0 +1,170 @@
+[
+  {
+    "name": "timelight",
+    "title": "Timelight",
+    "imageCard": "timelight.png",
+    "url": "http://timelight.antoinemoreaux.fr/",
+    "description": "This project was realized at my first year at hetic. The aim of the exercise was to build a project based on a theme. For my group, it was « the light ». We had two weeks to release it. After three days of reflexion we decided to create an imaginary experience in 2138 where we can see the past thanks to a new technology developed by timelight corporation. ",
+    "collaborators": {
+      "manager": [
+        "Elise Vanstaevel"
+      ],
+      "designer": [
+        "Othman Hassani",
+        "Nina Farge"
+      ],
+      "developer": [
+        "Antoine Moreaux",
+        "Arthur Mialon"
+      ]
+    },
+    "technologies": [
+      "html5",
+      "css3",
+      "javascript"
+    ]
+  },
+  {
+    "name": "mychloe",
+    "title": "MyChloe",
+    "imageCard": "mychloe.png",
+    "url": "http://mychloe.io/",
+    "description": "This project was realized at my first year at hetic. The aim of the exercise was to build a project based on a theme. For my group, it was « the light ». We had two weeks to release it. After three days of reflexion we decided to create a imaginary experience in 2138 where we can see the past thanks to a new technology developed by timelight corporation. ",
+    "collaborators": {
+      "manager": [
+        "Elena Domercq"
+      ],
+      "designer": [
+        "Valentin Chretien",
+        "Jonathan Beltran"
+      ],
+      "developer": [
+        "Antoine Moreaux",
+        "Clement Delaunay"
+      ]
+    },
+    "technologies": [
+      "html5",
+      "css3",
+      "javascript",
+      "backbone",
+      "php",
+      "redbean",
+      "fatfree",
+      "mysql",
+      "grunt"
+    ]
+  },
+  {
+    "name": "matchapps",
+    "title": "Match'apps",
+    "imageCard": "matchapps.png",
+    "url": "http://match-apps.com/",
+    "description": "This project was realized at my first year at hetic. The aim of the exercise was to build a project based on a theme. For my group, it was « the light ». We had two weeks to release it. After three days of reflexion we decided to create a imaginary experience in 2138 where we can see the past thanks to a new technology developed by timelight corporation. ",
+    "collaborators": {
+      "manager": [
+        "Barbara Jeandeau"
+      ],
+      "designer": [
+        "Arthur Guillermin"
+      ],
+      "developer": [
+        "Antoine Moreaux",
+        "Clement Delaunay",
+        "Maxime Berthelot",
+        "Gabriel Vergnaud"
+      ]
+    },
+    "technologies": [
+      "html5",
+      "css3",
+      "javascript",
+      "angular",
+      "ionic",
+      "sails",
+      "node",
+      "postgres"
+    ]
+  },
+  {
+    "name": "infinityRunning",
+    "title": "Infinity Running",
+    "imageCard": "infinity.png",
+    "url": "https://vimeo.com/122749598",
+    "description": "This project was realized at my first year at hetic. The aim of the exercise was to build a project based on a theme. For my group, it was « the light ». We had two weeks to release it. After three days of reflexion we decided to create a imaginary experience in 2138 where we can see the past thanks to a new technology developed by timelight corporation. ",
+    "collaborators": {
+      "manager": [
+        "Antoine Moreaux"
+      ],
+      "designer": [
+        "Antoine Moreaux"
+      ],
+      "developer": [
+        "Antoine Moreaux"
+      ]
+    },
+    "technologies": [
+      "finalcut"
+    ],
+    "video": "video.mp4"
+  },
+  {
+    "name": "runningheroes",
+    "title": "Running Heroes",
+    "imageCard": "runningheroes.png",
+    "url": "https://runningheroes.com/",
+    "description": "This project was realized at my first year at hetic. The aim of the exercise was to build a project based on a theme. For my group, it was « the light ». We had two weeks to release it. After three days of reflexion we decided to create a imaginary experience in 2138 where we can see the past thanks to a new technology developed by timelight corporation. ",
+    "collaborators": {
+      "manager": [
+        "Jean Charle Touzalin",
+        "Boris Pourreau"
+      ],
+      "designer": [
+        ""
+      ],
+      "developer": [
+        "Antoine Moreaux",
+        "Jean Charle Touzalin",
+        "..."
+      ]
+    },
+    "technologies": [
+      "html5",
+      "css3",
+      "javascript",
+      "angular",
+      "node",
+      "express",
+      "mongo",
+      "grunt",
+      "raygun",
+      "algolia"
+    ]
+  },
+  {
+    "name": "reviewmanager",
+    "title": "Review Manager",
+    "imageCard": "reviewmanager.png",
+    "description": "This project was realized at my first year at hetic. The aim of the exercise was to build a project based on a theme. For my group, it was « the light ». We had two weeks to release it. After three days of reflexion we decided to create a imaginary experience in 2138 where we can see the past thanks to a new technology developed by timelight corporation. ",
+    "collaborators": {
+      "manager": [
+        "Ahmed Bounekkar"
+      ],
+      "designer": [
+        "Antoine Moreaux"
+      ],
+      "developer": [
+        "Antoine Moreaux"
+      ]
+    },
+    "technologies": [
+      "html5",
+      "css3",
+      "javascript",
+      "bootstrap",
+      "symfony",
+      "doctrine",
+      "twig"
+    ]
+  }
+]

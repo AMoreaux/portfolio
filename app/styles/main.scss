@@ -1,0 +1,142 @@
+$icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+// bower:scss
+@import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
+// endbower
+
+
+$font: "Source Sans Pro";
+
+@mixin main-text {
+  font-family: $font;
+  font-size: 2.8vh;
+  color: #4A4A4A;
+}
+
+@mixin line {
+  height: 1px;
+  background: radial-gradient(rgba(151, 151, 151, 63), transparent);
+}
+
+body{
+  overflow-x: hidden;
+  margin: -15px;
+}
+
+.main-page {
+
+  height: 100vh;
+  line-height:100vh;
+  text-align:center;
+
+  .bloc-text {
+    display:inline-block;
+    vertical-align:middle;
+    line-height:normal;
+    text-align:center;
+
+    * {
+      @include main-text;
+      margin: 5% auto 0 auto;
+    }
+  }
+
+  h1{
+    width: 375px;
+    height: 31px;
+  }
+
+  h2{
+    width: 960px;
+    height: 62px;
+
+  }
+}
+
+.project {
+  display: table-cell;
+  height: 75vh;
+}
+
+.container{
+  margin-right:0 ;
+  margin-left: 0;
+  width: 100%;
+}
+
+.img-side{
+
+  width: 50vw;
+
+  img{
+    width: 75%;
+    margin: 5% 0 0 5%;
+    z-index: 2;
+  }
+
+
+}
+
+.video{
+  width: 35vw;
+  height: 40vh;
+  position: absolute;
+  margin: 3% 0 0 4%;
+  z-index: 1;
+}
+
+project{
+  width: 100%;
+}
+
+.text-side{
+  width: 50vw;
+
+  h3{
+    @include main-text;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  .description{
+    @include main-text;
+    text-align: left;
+    width: 75%;
+    margin: 5% auto 0 auto;
+  }
+
+  .line{
+    @include line;
+    width: 75%;
+    margin: 5% auto 5% auto;
+  }
+
+  ul{
+    width: 75%;
+    margin: 0 auto 0 auto;
+    list-style:none;
+    padding: 0;
+    @include main-text;
+  }
+
+  li{
+    line-height: 8vh;
+  }
+
+}
+
+.line{
+  @include line;
+  width: 90%;
+  margin: 0 auto 4vh auto;
+}
+
+.techno{
+
+  height: 15vh;
+  margin: 0 auto 0 auto;
+
+  img{
+    width: 5vw;
+    margin: 0 2.5vw 0 2.5vw;
+  }
+}

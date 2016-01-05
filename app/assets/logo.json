@@ -1,0 +1,14 @@
+{
+  "javascript":{
+  "name":"Javascript",
+  "logo":"js.png"
+  },
+  "html5":{
+    "name":"HTML5",
+    "logo":"html.png"
+  },
+  "css3":{
+    "name":"CSS3",
+    "logo":"css.png"
+  }
+}
